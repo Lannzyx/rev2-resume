@@ -1,0 +1,36 @@
+html{
+    background-color: #001C30;
+}
+
+#sum {
+    color: #F9E0BB;
+}
+#nama {
+    color: #F9E0BB;
+}
+#edu {
+    color: #F9E0BB;
+} 
+#exp {
+    color: #F9E0BB;
+} 
+#Skills {
+    color: #F9E0BB;
+}
+#Other{
+    color: #F9E0BB;
+} 
+
+li{
+    color: #F9E0BB;
+    align-content: ce;
+}
+
+p{
+    color: #F9E0BB;
+}
+
+html{
+    align-items: center;
+    text-align: left;
+}
